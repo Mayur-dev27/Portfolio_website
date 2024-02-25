@@ -3,8 +3,8 @@ Welcome to my portfolio repository! This portfolio is created using HTML, CSS, J
 
 Features:
 
-Responsive Design: Utilizing Bootstrap for responsive layout ensuring compatibility across various devices
-.
+Responsive Design: Utilizing Bootstrap for responsive layout ensuring compatibility across various devices.
+
 Project Showcase: Highlighting my projects with detailed descriptions, technologies used, and live demos where applicable.
 
 Skills Section: Presenting my skills in a visually appealing manner with icons and descriptions.
@@ -12,6 +12,7 @@ Skills Section: Presenting my skills in a visually appealing manner with icons a
 Experience and Education: Providing insights into my professional journey and educational background.
 
 Contact Section: Allowing visitors to reach out to me easily through a contact form or links to social media.
+
 
 
 Technologies Used:
