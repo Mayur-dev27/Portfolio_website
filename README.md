@@ -11,7 +11,7 @@ Skills Section: Presenting my skills in a visually appealing manner with icons a
 
 Experience and Education: Providing insights into my professional journey and educational background.
 
-Contact Section: Allowing visitors to reach out to me easily through a contact form or links to social media.
+Contact Section: Allowing visitors to reach out to me easily through a contact form or links to social media. 
 
 
 
